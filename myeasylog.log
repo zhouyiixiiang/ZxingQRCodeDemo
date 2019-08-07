@@ -1,0 +1,718 @@
+2019-07-11 11:37:26,433 INFO [default] My first easylog
+2019-07-11 11:56:31,985 INFO [default] InitScanner
+2019-07-11 11:56:34,954 INFO [default] click buttom3
+2019-07-11 16:42:22,526 INFO [default] Init Scanner
+2019-07-11 16:42:22,527 INFO [default] initting scanner
+2019-07-11 16:50:11,376 INFO [default] Init Scanner
+2019-07-11 16:50:11,378 INFO [default] initting scanner
+2019-07-12 11:38:14,813 INFO [default] Init Scanner
+2019-07-12 11:38:14,816 INFO [default] initting scanner
+2019-07-12 11:38:26,217 INFO [default] click buttom start scan
+2019-07-12 11:38:26,217 INFO [default] Open Scanner
+2019-07-12 11:38:29,566 INFO [default] start Scanner
+2019-07-12 11:38:29,569 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:38:29,668 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:29,668 INFO [default] size of queue is 0
+2019-07-12 11:38:29,670 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:38:29,769 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:29,770 INFO [default] size of queue is 0
+2019-07-12 11:38:29,771 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:38:29,871 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:29,872 INFO [default] size of queue is 0
+2019-07-12 11:38:29,872 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:38:29,972 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:29,973 INFO [default] size of queue is 0
+2019-07-12 11:38:29,973 INFO [default] 
+2019-07-12 11:38:30,074 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:30,074 INFO [default] size of queue is 0
+2019-07-12 11:38:30,075 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:38:30,177 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:30,177 INFO [default] size of queue is 0
+2019-07-12 11:38:30,178 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:38:30,223 INFO [default] save front page
+2019-07-12 11:38:30,227 INFO [default] pushing image: 00B03C20 into queue
+2019-07-12 11:38:30,227 INFO [default] saving reverse pic
+2019-07-12 11:38:30,278 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:30,278 INFO [default] size of queue is 1
+2019-07-12 11:38:30,279 INFO [default] recognize begin, pic queque is not empty
+2019-07-12 11:38:30,279 INFO [default] start recognizing
+2019-07-12 11:38:30,378 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:30,379 INFO [default] size of queue is 0
+2019-07-12 11:38:30,480 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:30,480 INFO [default] size of queue is 0
+2019-07-12 11:38:30,581 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:30,581 INFO [default] size of queue is 0
+2019-07-12 11:38:30,662 INFO [default] Recognizing picture name: Image_F1.bmp , number:0
+2019-07-12 11:38:30,682 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:30,682 INFO [default] size of queue is 0
+2019-07-12 11:38:30,768 INFO [default] save front page
+2019-07-12 11:38:30,771 INFO [default] pushing image: 00B02CB0 into queue
+2019-07-12 11:38:30,771 INFO [default] saving reverse pic
+2019-07-12 11:38:30,785 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:30,785 INFO [default] size of queue is 1
+2019-07-12 11:38:30,801 INFO [default] Recognizing picture name: Image_F1.bmp , number:1
+2019-07-12 11:38:30,822 INFO [default] Recognizing picture name: Image_F1.bmp , number:2
+2019-07-12 11:38:30,843 INFO [default] Recognizing picture name: Image_F1.bmp , number:3
+2019-07-12 11:38:30,864 INFO [default] Recognizing picture name: Image_F1.bmp , number:4
+2019-07-12 11:38:30,885 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:30,885 INFO [default] size of queue is 1
+2019-07-12 11:38:30,887 INFO [default] Recognizing picture name: Image_F1.bmp , number:5
+2019-07-12 11:38:30,908 INFO [default] Recognizing picture name: Image_F1.bmp , number:6
+2019-07-12 11:38:30,927 INFO [default] Recognizing picture name: Image_F1.bmp , number:7
+2019-07-12 11:38:30,947 INFO [default] Recognizing picture name: Image_F1.bmp , number:8
+2019-07-12 11:38:30,966 INFO [default] Recognizing picture name: Image_F1.bmp , number:9
+2019-07-12 11:38:30,986 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:30,986 INFO [default] Recognize Finished=0,wait a momentRecognizing picture name: Image_F1.bmp , number:10
+2019-07-12 11:38:30,986 INFO [default] size of queue is 1
+2019-07-12 11:38:31,005 INFO [default] Recognizing picture name: Image_F1.bmp , number:11
+2019-07-12 11:38:31,025 INFO [default] Recognizing picture name: Image_F1.bmp , number:12
+2019-07-12 11:38:31,055 INFO [default] Recognizing picture name: Image_F1.bmp , number:13
+2019-07-12 11:38:31,087 INFO [default] Recognizing picture name: Image_F1.bmp , number:14
+2019-07-12 11:38:31,092 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:31,092 INFO [default] size of queue is 1
+2019-07-12 11:38:31,122 INFO [default] Recognizing picture name: Image_F1.bmp , number:15
+2019-07-12 11:38:31,169 INFO [default] Recognizing picture name: Image_F1.bmp , number:16
+2019-07-12 11:38:31,193 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:31,193 INFO [default] size of queue is 1
+2019-07-12 11:38:31,195 INFO [default] Recognizing picture name: Image_F1.bmp , number:17
+2019-07-12 11:38:31,226 INFO [default] Recognizing picture name: Image_F1.bmp , number:18
+2019-07-12 11:38:31,259 INFO [default] Recognizing picture name: Image_F1.bmp , number:19
+2019-07-12 11:38:31,281 INFO [default] save front page
+2019-07-12 11:38:31,285 INFO [default] pushing image: 00B027D0 into queue
+2019-07-12 11:38:31,285 INFO [default] saving reverse pic
+2019-07-12 11:38:31,290 INFO [default] Recognizing picture name: Image_F1.bmp , number:20
+2019-07-12 11:38:31,294 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:31,294 INFO [default] size of queue is 2
+2019-07-12 11:38:31,310 INFO [default] Recognizing picture name: Image_F1.bmp , number:21
+2019-07-12 11:38:31,335 INFO [default] Recognizing picture name: Image_F1.bmp , number:22
+2019-07-12 11:38:31,355 INFO [default] Recognizing picture name: Image_F1.bmp , number:23
+2019-07-12 11:38:31,374 INFO [default] Recognizing picture name: Image_F1.bmp , number:24
+2019-07-12 11:38:31,394 INFO [default] Recognizing picture name: Image_F1.bmp , number:25
+2019-07-12 11:38:31,398 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:31,398 INFO [default] size of queue is 2
+2019-07-12 11:38:31,413 INFO [default] Recognizing picture name: Image_F1.bmp , number:26
+2019-07-12 11:38:31,432 INFO [default] Recognizing picture name: Image_F1.bmp , number:27
+2019-07-12 11:38:31,452 INFO [default] Recognizing picture name: Image_F1.bmp , number:28
+2019-07-12 11:38:31,475 INFO [default] Recognizing picture name: Image_F1.bmp , number:29
+2019-07-12 11:38:31,495 INFO [default] Recognizing picture name: Image_F1.bmp , number:30
+2019-07-12 11:38:31,499 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:38:31,499 INFO [default] size of queue is 2
+2019-07-12 11:38:31,516 INFO [default] Recognizing picture name: Image_F1.bmp , number:31
+2019-07-12 11:38:31,537 INFO [default] Recognizing picture name: Image_F1.bmp , number:32
+2019-07-12 11:38:31,557 INFO [default] Recognizing picture name: Image_F1.bmp , number:33
+2019-07-12 11:38:31,577 INFO [default] Recognizing picture name: Image_F1.bmp , number:34
+2019-07-12 11:38:59,339 INFO [default] Init Scanner
+2019-07-12 11:38:59,341 INFO [default] initting scanner
+2019-07-12 11:39:06,332 INFO [default] click buttom start scan
+2019-07-12 11:39:06,332 INFO [default] Open Scanner
+2019-07-12 11:39:08,378 INFO [default] start Scanner
+2019-07-12 11:39:08,381 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:39:08,481 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:39:08,481 INFO [default] size of queue is 0
+2019-07-12 11:39:08,483 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:39:08,583 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:39:08,583 INFO [default] size of queue is 0
+2019-07-12 11:39:08,584 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:39:08,683 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:39:08,683 INFO [default] size of queue is 0
+2019-07-12 11:39:08,684 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:39:08,784 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:39:08,784 INFO [default] size of queue is 0
+2019-07-12 11:39:08,785 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:39:54,834 INFO [default] Init Scanner
+2019-07-12 11:39:54,835 INFO [default] initting scanner
+2019-07-12 11:39:56,668 INFO [default] click buttom start scan
+2019-07-12 11:39:56,669 INFO [default] Open Scanner
+2019-07-12 11:40:00,021 INFO [default] start Scanner
+2019-07-12 11:40:00,022 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:40:00,123 INFO [default] Rqecognize FinishelagFinished=0,ээээ    ъlБ  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ     lБ  ЉU s e r S p e l l M o d e l D i c t _ E v e n t _                       lcБ  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ    liБ  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ    "lБ  ЂL o c a l \ S G P Y _ P r i v i l e g e D i c t 9 . 3 . 0 . 3 1 2 9    Ђ(lEБ  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ    6lKБ  Љi n f o k e y i c t 9 . 3 . 0 . 3 1 2 9 _ E v e n t _                   <lQБ  Љs m a r t i n f o 9 . 3 . 0 . 3 1 2 9 _ E v e n t _                     Jl§А  ЊуК ШфК                ­r  ээээ            t‘t‘ННННННННээээЭЭ  Pl­А  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ  ^lіА  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ    dl№А  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ    rlЏА  ЉU r l G u i d e D i c t 9 . 3 . 0 . 3 1 2 9 _ E v e n t _     ЭЭЭ       xl•А  ЉP y T i p D i c t 9 . 3 . 0 . 3 1 2 9 _ E v e n t _   n   ЭЭЭЭЭЭЭЭЭЭ    †m›А  ЊxcP
+Аh“               ,t  ээээН
+2019-07-12 11:40:00,123 INFO [default] Rqecognize FinishelagFinished=0,ээээ    ъlБ  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ     lБ  ЉU s e r S p e l l M o d e l D i c t _ E v e n t _                       lcБ  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ    liБ  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ    "lБ  ЂL o c a l \ S G P Y _ P r i v i l e g e D i c t 9 . 3 . 0 . 3 1 2 9    Ђ(lEБ  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ    6lKБ  Љi n f o k e y i c t 9 . 3 . 0 . 3 1 2 9 _ E v e n t _                   <lQБ  Љs m a r t i n f o 9 . 3 . 0 . 3 1 2 9 _ E v e n t _                     Jl§А  ЊуК ШфК                ­r  ээээ            t‘t‘ННННННННээээЭЭ  Pl­А  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ  ^lіА  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ    dl№А  ЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ    rlЏА  ЉU r l G u i d e D i c t 9 . 3 . 0 . 3 1 2 9 _ E v e n t _     ЭЭЭ       xl•А  ЉP y T i p D i c t 9 . 3 . 0 . 3 1 2 9 _ E v e n t _   n   ЭЭЭЭЭЭЭЭЭЭ    †m›А  ЊxcP
+Аh“               ,t  ээээН
+2019-07-12 11:40:54,489 INFO [default] Init Scanner
+2019-07-12 11:40:54,490 INFO [default] initting scanner
+2019-07-12 11:40:55,980 INFO [default] click buttom start scan
+2019-07-12 11:40:55,980 INFO [default] Open Scanner
+2019-07-12 11:40:59,680 INFO [default] start Scanner
+2019-07-12 11:40:59,683 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:40:59,784 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:40:59,784 INFO [default] size of queue is 0
+2019-07-12 11:40:59,785 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:40:59,885 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:40:59,885 INFO [default] size of queue is 0
+2019-07-12 11:40:59,886 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:40:59,986 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 11:40:59,986 INFO [default] Recognize Finished=0,wait a momentqueue is empty, FlagFinished=0,wait a moment
+2019-07-12 11:40:59,986 INFO [default] size of queue is 0
+2019-07-12 11:41:00,087 INFO [default] queue is empty, FlagFinished=0,w-qrcode-1\demo\demo.cpp        nit a momentt
+2019-07-12 11:41:00,087 INFO [default] queue is empty, FlagFinished=0,w-qrcode-1\demo\demo.cpp        nit a momentt
+2019-07-12 12:00:50,085 INFO [default] Init Scanner
+2019-07-12 12:00:50,085 INFO [default] initting scanner
+2019-07-12 12:00:55,913 INFO [default] click buttom start scan
+2019-07-12 12:00:55,914 INFO [default] Open Scanner
+2019-07-12 12:00:59,342 INFO [default] start Scanner
+2019-07-12 12:00:59,348 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:00:59,446 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:00:59,447 INFO [default] size of queue is 0
+2019-07-12 12:00:59,449 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:00:59,547 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:00:59,547 INFO [default] size of queue is 0
+2019-07-12 12:00:59,550 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:00:59,649 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:00:59,649 INFO [default] size of queue is 0
+2019-07-12 12:00:59,651 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:00:59,751 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:00:59,751 INFO [default] size of queue is 0
+2019-07-12 12:00:59,752 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:00:59,852 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:00:59,855 INFO [default] size of queue is 0
+2019-07-12 12:00:59,856 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:00:59,958 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:00:59,958 INFO [default] size of queue is 0
+2019-07-12 12:00:59,959 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:01:00,047 INFO [default] save front page
+2019-07-12 12:01:00,053 INFO [default] pushing image: 000E3B60 into queue
+2019-07-12 12:01:00,053 INFO [default] saving reverse pic
+2019-07-12 12:01:00,059 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:00,059 INFO [default] size of queue is 1
+2019-07-12 12:01:00,060 INFO [default] recognize begin, pic queque is not empty
+2019-07-12 12:01:00,060 INFO [default] start recognizing
+2019-07-12 12:01:00,160 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:00,160 INFO [default] size of queue is 0
+2019-07-12 12:01:00,261 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:00,262 INFO [default] size of queue is 0
+2019-07-12 12:01:00,388 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:00,388 INFO [default] size of queue is 0
+2019-07-12 12:01:00,449 INFO [default] Recognizing picture name: Image_F1.bmp , number:0
+2019-07-12 12:01:00,491 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:00,491 INFO [default] size of queue is 0
+2019-07-12 12:01:00,571 INFO [default] save front page
+2019-07-12 12:01:00,574 INFO [default] Recognizing picture name: Image_F1.bmp , number:1
+2019-07-12 12:01:00,575 INFO [default] pushing image: 000E38F0 into queue
+2019-07-12 12:01:00,575 INFO [default] saving reverse pic
+2019-07-12 12:01:00,592 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:00,592 INFO [default] size of queue is 1
+2019-07-12 12:01:00,631 INFO [default] Recognizing picture name: Image_F1.bmp , number:2
+2019-07-12 12:01:00,681 INFO [default] Recognizing picture name: Image_F1.bmp , number:3
+2019-07-12 12:01:00,693 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:00,693 INFO [default] size of queue is 1
+2019-07-12 12:01:00,731 INFO [default] Recognizing picture name: Image_F1.bmp , number:4
+2019-07-12 12:01:00,781 INFO [default] Recognizing picture name: Image_F1.bmp , number:5
+2019-07-12 12:01:00,794 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:00,794 INFO [default] size of queue is 1
+2019-07-12 12:01:00,834 INFO [default] Recognizing picture name: Image_F1.bmp , number:6
+2019-07-12 12:01:00,884 INFO [default] Recognizing picture name: Image_F1.bmp , number:7
+2019-07-12 12:01:00,894 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:00,894 INFO [default] size of queue is 1
+2019-07-12 12:01:00,947 INFO [default] Recognizing picture name: Image_F1.bmp , number:8
+2019-07-12 12:01:00,995 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:00,995 INFO [default] size of queue is 1
+2019-07-12 12:01:01,009 INFO [default] Recognizing picture name: Image_F1.bmp , number:9
+2019-07-12 12:01:01,073 INFO [default] save front page
+2019-07-12 12:01:01,078 INFO [default] pushing image: 000E39C0 into queue
+2019-07-12 12:01:01,078 INFO [default] saving reverse pic
+2019-07-12 12:01:01,088 INFO [default] Recognizing picture name: Image_F1.bmp , number:10
+2019-07-12 12:01:01,098 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:01,098 INFO [default] size of queue is 2
+2019-07-12 12:01:01,143 INFO [default] Recognizing picture name: Image_F1.bmp , number:11
+2019-07-12 12:01:01,192 INFO [default] Recognizing picture name: Image_F1.bmp , number:12
+2019-07-12 12:01:01,198 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:01,198 INFO [default] size of queue is 2
+2019-07-12 12:01:01,241 INFO [default] Recognizing picture name: Image_F1.bmp , number:13
+2019-07-12 12:01:01,294 INFO [default] Recognizing picture name: Image_F1.bmp , number:14
+2019-07-12 12:01:01,299 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:01,299 INFO [default] size of queue is 2
+2019-07-12 12:01:01,343 INFO [default] Recognizing picture name: Image_F1.bmp , number:15
+2019-07-12 12:01:01,394 INFO [default] Recognizing picture name: Image_F1.bmp , number:16
+2019-07-12 12:01:01,400 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:01,400 INFO [default] size of queue is 2
+2019-07-12 12:01:01,459 INFO [default] Recognizing picture name: Image_F1.bmp , number:17
+2019-07-12 12:01:01,501 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:01,501 INFO [default] size of queue is 2
+2019-07-12 12:01:01,521 INFO [default] Recognizing picture name: Image_F1.bmp , number:18
+2019-07-12 12:01:01,579 INFO [default] Recognizing picture name: Image_F1.bmp , number:19
+2019-07-12 12:01:01,587 INFO [default] Scan over
+2019-07-12 12:01:01,602 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:01,602 INFO [default] size of queue is 2
+2019-07-12 12:01:01,628 INFO [default] Recognizing picture name: Image_F1.bmp , number:20
+2019-07-12 12:01:01,685 INFO [default] Recognizing picture name: Image_F1.bmp , number:21
+2019-07-12 12:01:01,703 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:01,703 INFO [default] size of queue is 2
+2019-07-12 12:01:01,753 INFO [default] Recognizing picture name: Image_F1.bmp , number:22
+2019-07-12 12:01:01,803 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:01,803 INFO [default] size of queue is 2
+2019-07-12 12:01:01,827 INFO [default] Recognizing picture name: Image_F1.bmp , number:23
+2019-07-12 12:01:01,898 INFO [default] Recognizing picture name: Image_F1.bmp , number:24
+2019-07-12 12:01:01,904 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:01,904 INFO [default] size of queue is 2
+2019-07-12 12:01:01,952 INFO [default] Recognizing picture name: Image_F1.bmp , number:25
+2019-07-12 12:01:02,001 INFO [default] Recognizing picture name: Image_F1.bmp , number:26
+2019-07-12 12:01:02,005 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:02,005 INFO [default] size of queue is 2
+2019-07-12 12:01:02,050 INFO [default] Recognizing picture name: Image_F1.bmp , number:27
+2019-07-12 12:01:02,104 INFO [default] Recognizing picture name: Image_F1.bmp , number:28
+2019-07-12 12:01:02,105 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:02,105 INFO [default] size of queue is 2
+2019-07-12 12:01:02,158 INFO [default] Recognizing picture name: Image_F1.bmp , number:29
+2019-07-12 12:01:02,206 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:02,206 INFO [default] size of queue is 2
+2019-07-12 12:01:02,217 INFO [default] Recognizing picture name: Image_F1.bmp , number:30
+2019-07-12 12:01:02,281 INFO [default] Recognizing picture name: Image_F1.bmp , number:31
+2019-07-12 12:01:02,307 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:02,307 INFO [default] size of queue is 2
+2019-07-12 12:01:02,341 INFO [default] Recognizing picture name: Image_F1.bmp , number:32
+2019-07-12 12:01:02,401 INFO [default] Recognizing picture name: Image_F1.bmp , number:33
+2019-07-12 12:01:02,408 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:02,408 INFO [default] size of queue is 2
+2019-07-12 12:01:02,461 INFO [default] Recognizing picture name: Image_F1.bmp , number:34
+2019-07-12 12:01:02,509 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:02,509 INFO [default] size of queue is 2
+2019-07-12 12:01:02,535 INFO [default] recognize begin, pic queque is not empty
+2019-07-12 12:01:02,535 INFO [default] start recognizing
+2019-07-12 12:01:02,579 INFO [default] Recognizing picture name: Image_F2.bmp , number:0
+2019-07-12 12:01:02,610 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:02,610 INFO [default] size of queue is 1
+2019-07-12 12:01:02,648 INFO [default] Recognizing picture name: Image_F2.bmp , number:1
+2019-07-12 12:01:02,711 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:02,711 INFO [default] size of queue is 1
+2019-07-12 12:01:02,723 INFO [default] Recognizing picture name: Image_F2.bmp , number:2
+2019-07-12 12:01:02,788 INFO [default] Recognizing picture name: Image_F2.bmp , number:3
+2019-07-12 12:01:02,811 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:02,811 INFO [default] size of queue is 1
+2019-07-12 12:01:02,840 INFO [default] Recognizing picture name: Image_F2.bmp , number:4
+2019-07-12 12:01:02,893 INFO [default] Recognizing picture name: Image_F2.bmp , number:5
+2019-07-12 12:01:02,912 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:02,912 INFO [default] size of queue is 1
+2019-07-12 12:01:02,943 INFO [default] Recognizing picture name: Image_F2.bmp , number:6
+2019-07-12 12:01:02,992 INFO [default] Recognizing picture name: Image_F2.bmp , number:7
+2019-07-12 12:01:03,013 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:03,013 INFO [default] size of queue is 1
+2019-07-12 12:01:03,041 INFO [default] Recognizing picture name: Image_F2.bmp , number:8
+2019-07-12 12:01:03,098 INFO [default] Recognizing picture name: Image_F2.bmp , number:9
+2019-07-12 12:01:03,114 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:03,114 INFO [default] size of queue is 1
+2019-07-12 12:01:03,157 INFO [default] Recognizing picture name: Image_F2.bmp , number:10
+2019-07-12 12:01:03,207 INFO [default] Recognizing picture name: Image_F2.bmp , number:11
+2019-07-12 12:01:03,215 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:03,215 INFO [default] size of queue is 1
+2019-07-12 12:01:03,272 INFO [default] Recognizing picture name: Image_F2.bmp , number:12
+2019-07-12 12:01:03,316 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:03,316 INFO [default] size of queue is 1
+2019-07-12 12:01:03,333 INFO [default] Recognizing picture name: Image_F2.bmp , number:13
+2019-07-12 12:01:03,386 INFO [default] Recognizing picture name: Image_F2.bmp , number:14
+2019-07-12 12:01:03,417 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:03,417 INFO [default] size of queue is 1
+2019-07-12 12:01:03,436 INFO [default] Recognizing picture name: Image_F2.bmp , number:15
+2019-07-12 12:01:03,484 INFO [default] Recognizing picture name: Image_F2.bmp , number:16
+2019-07-12 12:01:03,518 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:03,518 INFO [default] size of queue is 1
+2019-07-12 12:01:03,536 INFO [default] Recognizing picture name: Image_F2.bmp , number:17
+2019-07-12 12:01:03,586 INFO [default] Recognizing picture name: Image_F2.bmp , number:18
+2019-07-12 12:01:03,618 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:03,618 INFO [default] size of queue is 1
+2019-07-12 12:01:03,635 INFO [default] Recognizing picture name: Image_F2.bmp , number:19
+2019-07-12 12:01:03,684 INFO [default] Recognizing picture name: Image_F2.bmp , number:20
+2019-07-12 12:01:03,719 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:03,719 INFO [default] size of queue is 1
+2019-07-12 12:01:03,734 INFO [default] Recognizing picture name: Image_F2.bmp , number:21
+2019-07-12 12:01:03,783 INFO [default] Recognizing picture name: Image_F2.bmp , number:22
+2019-07-12 12:01:03,820 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:03,820 INFO [default] size of queue is 1
+2019-07-12 12:01:03,832 INFO [default] Recognizing picture name: Image_F2.bmp , number:23
+2019-07-12 12:01:03,889 INFO [default] Recognizing picture name: Image_F2.bmp , number:24
+2019-07-12 12:01:03,920 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:03,920 INFO [default] size of queue is 1
+2019-07-12 12:01:03,960 INFO [default] Recognizing picture name: Image_F2.bmp , number:25
+2019-07-12 12:01:04,014 INFO [default] Recognizing picture name: Image_F2.bmp , number:26
+2019-07-12 12:01:04,021 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:04,021 INFO [default] size of queue is 1
+2019-07-12 12:01:04,065 INFO [default] Recognizing picture name: Image_F2.bmp , number:27
+2019-07-12 12:01:04,121 INFO [default] Recognizing picture name: Image_F2.bmp , number:28
+2019-07-12 12:01:04,122 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:04,122 INFO [default] size of queue is 1
+2019-07-12 12:01:04,171 INFO [default] Recognizing picture name: Image_F2.bmp , number:29
+2019-07-12 12:01:04,220 INFO [default] Recognizing picture name: Image_F2.bmp , number:30
+2019-07-12 12:01:04,222 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:04,223 INFO [default] size of queue is 1
+2019-07-12 12:01:04,269 INFO [default] Recognizing picture name: Image_F2.bmp , number:31
+2019-07-12 12:01:04,321 INFO [default] Recognizing picture name: Image_F2.bmp , number:32
+2019-07-12 12:01:04,323 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:04,323 INFO [default] size of queue is 1
+2019-07-12 12:01:04,369 INFO [default] Recognizing picture name: Image_F2.bmp , number:33
+2019-07-12 12:01:04,417 INFO [default] Recognizing picture name: Image_F2.bmp , number:34
+2019-07-12 12:01:04,424 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:04,424 INFO [default] size of queue is 1
+2019-07-12 12:01:04,471 INFO [default] recognize begin, pic queque is not empty
+2019-07-12 12:01:04,471 INFO [default] start recognizing
+2019-07-12 12:01:04,512 INFO [default] Recognizing picture name: Image_F3.bmp , number:0
+2019-07-12 12:01:04,525 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:04,525 INFO [default] size of queue is 0
+2019-07-12 12:01:04,563 INFO [default] Recognizing picture name: Image_F3.bmp , number:1
+2019-07-12 12:01:04,612 INFO [default] Recognizing picture name: Image_F3.bmp , number:2
+2019-07-12 12:01:04,626 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:04,626 INFO [default] size of queue is 0
+2019-07-12 12:01:04,661 INFO [default] Recognizing picture name: Image_F3.bmp , number:3
+2019-07-12 12:01:04,720 INFO [default] Recognizing picture name: Image_F3.bmp , number:4
+2019-07-12 12:01:04,726 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:04,726 INFO [default] size of queue is 0
+2019-07-12 12:01:04,782 INFO [default] Recognizing picture name: Image_F3.bmp , number:5
+2019-07-12 12:01:04,827 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:04,827 INFO [default] size of queue is 0
+2019-07-12 12:01:04,841 INFO [default] Recognizing picture name: Image_F3.bmp , number:6
+2019-07-12 12:01:04,895 INFO [default] Recognizing picture name: Image_F3.bmp , number:7
+2019-07-12 12:01:04,928 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:04,928 INFO [default] size of queue is 0
+2019-07-12 12:01:04,950 INFO [default] Recognizing picture name: Image_F3.bmp , number:8
+2019-07-12 12:01:05,001 INFO [default] Recognizing picture name: Image_F3.bmp , number:9
+2019-07-12 12:01:05,028 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:05,028 INFO [default] size of queue is 0
+2019-07-12 12:01:05,056 INFO [default] Recognizing picture name: Image_F3.bmp , number:10
+2019-07-12 12:01:05,129 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:05,129 INFO [default] Recognize Finished=0,wait a momentRecognizing picture name: Image_F3.bmp , number:11
+2019-07-12 12:01:05,129 INFO [default] 
+2019-07-12 12:01:05,192 INFO [default] Recognizing picture name: Image_F3.bmp , number:12
+2019-07-12 12:01:05,230 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:05,230 INFO [default] size of queue is 0
+2019-07-12 12:01:05,241 INFO [default] Recognizing picture name: Image_F3.bmp , number:13
+2019-07-12 12:01:05,299 INFO [default] Recognizing picture name: Image_F3.bmp , number:14
+2019-07-12 12:01:05,330 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:05,330 INFO [default] size of queue is 0
+2019-07-12 12:01:05,373 INFO [default] Recognizing picture name: Image_F3.bmp , number:15
+2019-07-12 12:01:05,432 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:05,432 INFO [default] size of queue is 0
+2019-07-12 12:01:05,439 INFO [default] Recognizing picture name: Image_F3.bmp , number:16
+2019-07-12 12:01:05,488 INFO [default] Recognizing picture name: Image_F3.bmp , number:17
+2019-07-12 12:01:05,533 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:05,533 INFO [default] size of queue is 0
+2019-07-12 12:01:05,541 INFO [default] Recognizing picture name: Image_F3.bmp , number:18
+2019-07-12 12:01:05,591 INFO [default] Recognizing picture name: Image_F3.bmp , number:19
+2019-07-12 12:01:05,634 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:05,634 INFO [default] size of queue is 0
+2019-07-12 12:01:05,646 INFO [default] Recognizing picture name: Image_F3.bmp , number:20
+2019-07-12 12:01:05,701 INFO [default] Recognizing picture name: Image_F3.bmp , number:21
+2019-07-12 12:01:05,734 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:05,734 INFO [default] size of queue is 0
+2019-07-12 12:01:05,768 INFO [default] Recognizing picture name: Image_F3.bmp , number:22
+2019-07-12 12:01:05,822 INFO [default] Recognizing picture name: Image_F3.bmp , number:23
+2019-07-12 12:01:05,835 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:05,835 INFO [default] size of queue is 0
+2019-07-12 12:01:05,874 INFO [default] Recognizing picture name: Image_F3.bmp , number:24
+2019-07-12 12:01:05,926 INFO [default] Recognizing picture name: Image_F3.bmp , number:25
+2019-07-12 12:01:05,936 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:05,936 INFO [default] size of queue is 0
+2019-07-12 12:01:05,976 INFO [default] Recognizing picture name: Image_F3.bmp , number:26
+2019-07-12 12:01:06,024 INFO [default] Recognizing picture name: Image_F3.bmp , number:27
+2019-07-12 12:01:06,037 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:06,037 INFO [default] size of queue is 0
+2019-07-12 12:01:06,073 INFO [default] Recognizing picture name: Image_F3.bmp , number:28
+2019-07-12 12:01:06,135 INFO [default] Recognizing picture name: Image_F3.bmp , number:29
+2019-07-12 12:01:06,137 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:06,137 INFO [default] size of queue is 0
+2019-07-12 12:01:06,203 INFO [default] Recognizing picture name: Image_F3.bmp , number:30
+2019-07-12 12:01:06,238 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:06,238 INFO [default] size of queue is 0
+2019-07-12 12:01:06,271 INFO [default] Recognizing picture name: Image_F3.bmp , number:31
+2019-07-12 12:01:06,323 INFO [default] Recognizing picture name: Image_F3.bmp , number:32
+2019-07-12 12:01:06,339 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:06,339 INFO [default] size of queue is 0
+2019-07-12 12:01:06,374 INFO [default] Recognizing picture name: Image_F3.bmp , number:33
+2019-07-12 12:01:06,423 INFO [default] Recognizing picture name: Image_F3.bmp , number:34
+2019-07-12 12:01:06,440 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:06,440 INFO [default] size of queue is 0
+2019-07-12 12:01:06,474 INFO [default] FlagFinished=1,break recognizing loop
+2019-07-12 12:01:06,542 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:06,542 INFO [default] size of queue is 0
+2019-07-12 12:01:06,542 INFO [default] Recognize Finished=1,recognizing finished
+2019-07-12 12:01:19,259 INFO [default] click buttom start scan
+2019-07-12 12:01:19,259 INFO [default] Open Scanner
+2019-07-12 12:01:21,353 INFO [default] start Scanner
+2019-07-12 12:01:21,356 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:01:21,457 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:21,457 INFO [default] size of queue is 0
+2019-07-12 12:01:21,458 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:01:21,557 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:21,558 INFO [default] size of queue is 0
+2019-07-12 12:01:21,558 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:01:21,658 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:21,658 INFO [default] size of queue is 0
+2019-07-12 12:01:21,659 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:01:21,759 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:01:21,759 INFO [default] size of queue is 0
+2019-07-12 12:01:21,760 INFO [default] size of queue is 0queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:01:21,861 INFO [default] Recognize Finished=0,wait a momentqueue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:01:21,861 INFO [default] Recognize Finished=0,wait a momentqueue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:04:32,467 INFO [default] size of queue is 0
+2019-07-12 12:06:16,368 INFO [default] Init Scanner
+2019-07-12 12:06:18,078 INFO [default] click buttom start scan
+2019-07-12 12:06:18,078 INFO [default] initting scanner
+2019-07-12 12:06:18,096 INFO [default] Open Scanner
+2019-07-12 12:06:20,249 INFO [default] start Scanner
+2019-07-12 12:06:20,252 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:06:20,351 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:20,351 INFO [default] size of queue is 0
+2019-07-12 12:06:20,353 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:06:20,452 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:20,452 INFO [default] size of queue is 0
+2019-07-12 12:06:20,454 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:06:20,553 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:20,553 INFO [default] size of queue is 0
+2019-07-12 12:06:20,554 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:06:20,654 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:20,654 INFO [default] size of queue is 0
+2019-07-12 12:06:20,654 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:06:20,754 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:20,754 INFO [default] size of queue is 0
+2019-07-12 12:06:20,755 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:06:20,858 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:20,858 INFO [default] size of queue is 0
+2019-07-12 12:06:20,859 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:06:20,933 INFO [default] save front page
+2019-07-12 12:06:20,939 INFO [default] pushing image: 01391018 into queue
+2019-07-12 12:06:20,939 INFO [default] saving reverse pic
+2019-07-12 12:06:20,959 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:20,959 INFO [default] size of queue is 1
+2019-07-12 12:06:20,959 INFO [default] recognize begin, pic queque is not empty
+2019-07-12 12:06:20,959 INFO [default] start recognizing
+2019-07-12 12:06:21,027 INFO [default] Recognizing picture name: Image_F1.bmp , number:0
+2019-07-12 12:06:21,061 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:21,061 INFO [default] size of queue is 0
+2019-07-12 12:06:21,134 INFO [default] Recognizing picture name: Image_F1.bmp , number:1
+2019-07-12 12:06:21,162 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:21,162 INFO [default] size of queue is 0
+2019-07-12 12:06:21,183 INFO [default] Recognizing picture name: Image_F1.bmp , number:2
+2019-07-12 12:06:21,233 INFO [default] Recognizing picture name: Image_F1.bmp , number:3
+2019-07-12 12:06:21,263 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:21,263 INFO [default] size of queue is 0
+2019-07-12 12:06:21,290 INFO [default] Recognizing picture name: Image_F1.bmp , number:4
+2019-07-12 12:06:21,364 INFO [default] Recognizing picture name: Image_F1.bmp , number:5
+2019-07-12 12:06:21,368 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:21,369 INFO [default] size of queue is 0
+2019-07-12 12:06:21,434 INFO [default] save front page
+2019-07-12 12:06:21,436 INFO [default] Recognizing picture name: Image_F1.bmp , number:6
+2019-07-12 12:06:21,439 INFO [default] pushing image: 01390B38 into queue
+2019-07-12 12:06:21,439 INFO [default] saving reverse pic
+2019-07-12 12:06:21,469 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:21,469 INFO [default] size of queue is 1
+2019-07-12 12:06:21,489 INFO [default] Recognizing picture name: Image_F1.bmp , number:7
+2019-07-12 12:06:21,539 INFO [default] Recognizing picture name: Image_F1.bmp , number:8
+2019-07-12 12:06:21,570 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:21,570 INFO [default] size of queue is 1
+2019-07-12 12:06:21,595 INFO [default] Recognizing picture name: Image_F1.bmp , number:9
+2019-07-12 12:06:21,648 INFO [default] Recognizing picture name: Image_F1.bmp , number:10
+2019-07-12 12:06:21,671 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:21,671 INFO [default] size of queue is 1
+2019-07-12 12:06:21,699 INFO [default] Recognizing picture name: Image_F1.bmp , number:11
+2019-07-12 12:06:21,753 INFO [default] Recognizing picture name: Image_F1.bmp , number:12
+2019-07-12 12:06:21,787 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:21,787 INFO [default] size of queue is 1
+2019-07-12 12:06:21,833 INFO [default] Recognizing picture name: Image_F1.bmp , number:13
+2019-07-12 12:06:21,888 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:21,888 INFO [default] size of queue is 1
+2019-07-12 12:06:21,898 INFO [default] Recognizing picture name: Image_F1.bmp , number:14
+2019-07-12 12:06:21,917 INFO [default] save front page
+2019-07-12 12:06:21,922 INFO [default] pushing image: 01390E78 into queue
+2019-07-12 12:06:21,922 INFO [default] saving reverse pic
+2019-07-12 12:06:21,958 INFO [default] Recognizing picture name: Image_F1.bmp , number:15
+2019-07-12 12:06:21,989 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:21,989 INFO [default] size of queue is 2
+2019-07-12 12:06:22,010 INFO [default] Recognizing picture name: Image_F1.bmp , number:16
+2019-07-12 12:06:22,058 INFO [default] Recognizing picture name: Image_F1.bmp , number:17
+2019-07-12 12:06:22,090 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:22,090 INFO [default] size of queue is 2
+2019-07-12 12:06:22,106 INFO [default] Recognizing picture name: Image_F1.bmp , number:18
+2019-07-12 12:06:22,156 INFO [default] Recognizing picture name: Image_F1.bmp , number:19
+2019-07-12 12:06:22,191 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:22,191 INFO [default] size of queue is 2
+2019-07-12 12:06:22,207 INFO [default] Recognizing picture name: Image_F1.bmp , number:20
+2019-07-12 12:06:22,260 INFO [default] Recognizing picture name: Image_F1.bmp , number:21
+2019-07-12 12:06:22,292 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:22,292 INFO [default] size of queue is 2
+2019-07-12 12:06:22,315 INFO [default] Recognizing picture name: Image_F1.bmp , number:22
+2019-07-12 12:06:22,364 INFO [default] Recognizing picture name: Image_F1.bmp , number:23
+2019-07-12 12:06:22,392 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:22,392 INFO [default] size of queue is 2
+2019-07-12 12:06:22,425 INFO [default] Recognizing picture name: Image_F1.bmp , number:24
+2019-07-12 12:06:22,431 INFO [default] Scan over
+2019-07-12 12:06:22,489 INFO [default] Recognizing picture name: Image_F1.bmp , number:25
+2019-07-12 12:06:22,494 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:22,494 INFO [default] size of queue is 2
+2019-07-12 12:06:22,556 INFO [default] Recognizing picture name: Image_F1.bmp , number:26
+2019-07-12 12:06:22,594 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:22,594 INFO [default] size of queue is 2
+2019-07-12 12:06:22,615 INFO [default] Recognizing picture name: Image_F1.bmp , number:27
+2019-07-12 12:06:22,674 INFO [default] Recognizing picture name: Image_F1.bmp , number:28
+2019-07-12 12:06:22,696 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:22,696 INFO [default] size of queue is 2
+2019-07-12 12:06:22,731 INFO [default] Recognizing picture name: Image_F1.bmp , number:29
+2019-07-12 12:06:22,790 INFO [default] Recognizing picture name: Image_F1.bmp , number:30
+2019-07-12 12:06:22,796 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:22,796 INFO [default] size of queue is 2
+2019-07-12 12:06:22,845 INFO [default] Recognizing picture name: Image_F1.bmp , number:31
+2019-07-12 12:06:22,897 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:22,897 INFO [default] size of queue is 2
+2019-07-12 12:06:22,898 INFO [default] Recognizing picture name: Image_F1.bmp , number:32
+2019-07-12 12:06:22,954 INFO [default] Recognizing picture name: Image_F1.bmp , number:33
+2019-07-12 12:06:22,998 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:22,998 INFO [default] size of queue is 2
+2019-07-12 12:06:23,015 INFO [default] Recognizing picture name: Image_F1.bmp , number:34
+2019-07-12 12:06:23,084 INFO [default] recognize begin, pic queque is not empty
+2019-07-12 12:06:23,084 INFO [default] start recognizing
+2019-07-12 12:06:23,098 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:23,098 INFO [default] size of queue is 1
+2019-07-12 12:06:23,128 INFO [default] Recognizing picture name: Image_F2.bmp , number:0
+2019-07-12 12:06:23,195 INFO [default] Recognizing picture name: Image_F2.bmp , number:1
+2019-07-12 12:06:23,199 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:23,199 INFO [default] size of queue is 1
+2019-07-12 12:06:23,253 INFO [default] Recognizing picture name: Image_F2.bmp , number:2
+2019-07-12 12:06:23,300 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:23,300 INFO [default] size of queue is 1
+2019-07-12 12:06:23,303 INFO [default] Recognizing picture name: Image_F2.bmp , number:3
+2019-07-12 12:06:23,352 INFO [default] Recognizing picture name: Image_F2.bmp , number:4
+2019-07-12 12:06:23,401 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:23,401 INFO [default] size of queue is 1
+2019-07-12 12:06:23,404 INFO [default] Recognizing picture name: Image_F2.bmp , number:5
+2019-07-12 12:06:23,455 INFO [default] Recognizing picture name: Image_F2.bmp , number:6
+2019-07-12 12:06:23,502 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:23,502 INFO [default] size of queue is 1
+2019-07-12 12:06:23,504 INFO [default] Recognizing picture name: Image_F2.bmp , number:7
+2019-07-12 12:06:23,553 INFO [default] Recognizing picture name: Image_F2.bmp , number:8
+2019-07-12 12:06:23,602 INFO [default] Recognizing picture name: Image_F2.bmp , number:9
+2019-07-12 12:06:23,603 INFO [default] Recognizing picture name: Image_F2.bmp , number:9Recognize Finished=0,wait a moment
+2019-07-12 12:06:23,607 INFO [default] size of queue is 1
+2019-07-12 12:06:23,655 INFO [default] Recognizing picture name: Image_F2.bmp , number:10
+2019-07-12 12:06:23,704 INFO [default] Recognizing picture name: Image_F2.bmp , number:11
+2019-07-12 12:06:23,709 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:23,709 INFO [default] size of queue is 1
+2019-07-12 12:06:23,755 INFO [default] Recognizing picture name: Image_F2.bmp , number:12
+2019-07-12 12:06:23,804 INFO [default] Recognizing picture name: Image_F2.bmp , number:13
+2019-07-12 12:06:23,810 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:23,810 INFO [default] size of queue is 1
+2019-07-12 12:06:23,855 INFO [default] Recognizing picture name: Image_F2.bmp , number:14
+2019-07-12 12:06:23,905 INFO [default] Recognizing picture name: Image_F2.bmp , number:15
+2019-07-12 12:06:23,910 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:23,910 INFO [default] size of queue is 1
+2019-07-12 12:06:23,953 INFO [default] Recognizing picture name: Image_F2.bmp , number:16
+2019-07-12 12:06:24,002 INFO [default] Recognizing picture name: Image_F2.bmp , number:17
+2019-07-12 12:06:24,011 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:24,011 INFO [default] size of queue is 1
+2019-07-12 12:06:24,052 INFO [default] Recognizing picture name: Image_F2.bmp , number:18
+2019-07-12 12:06:24,100 INFO [default] Recognizing picture name: Image_F2.bmp , number:19
+2019-07-12 12:06:24,112 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:24,112 INFO [default] size of queue is 1
+2019-07-12 12:06:24,149 INFO [default] Recognizing picture name: Image_F2.bmp , number:20
+2019-07-12 12:06:24,197 INFO [default] Recognizing picture name: Image_F2.bmp , number:21
+2019-07-12 12:06:24,212 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:24,212 INFO [default] size of queue is 1
+2019-07-12 12:06:24,250 INFO [default] Recognizing picture name: Image_F2.bmp , number:22
+2019-07-12 12:06:24,298 INFO [default] Recognizing picture name: Image_F2.bmp , number:23
+2019-07-12 12:06:24,313 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:24,313 INFO [default] size of queue is 1
+2019-07-12 12:06:24,348 INFO [default] Recognizing picture name: Image_F2.bmp , number:24
+2019-07-12 12:06:24,396 INFO [default] Recognizing picture name: Image_F2.bmp , number:25
+2019-07-12 12:06:24,414 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:24,414 INFO [default] size of queue is 1
+2019-07-12 12:06:24,446 INFO [default] Recognizing picture name: Image_F2.bmp , number:26
+2019-07-12 12:06:24,500 INFO [default] Recognizing picture name: Image_F2.bmp , number:27
+2019-07-12 12:06:24,514 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:24,514 INFO [default] size of queue is 1
+2019-07-12 12:06:24,548 INFO [default] Recognizing picture name: Image_F2.bmp , number:28
+2019-07-12 12:06:24,596 INFO [default] Recognizing picture name: Image_F2.bmp , number:29
+2019-07-12 12:06:24,615 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:24,615 INFO [default] size of queue is 1
+2019-07-12 12:06:24,647 INFO [default] Recognizing picture name: Image_F2.bmp , number:30
+2019-07-12 12:06:24,697 INFO [default] Recognizing picture name: Image_F2.bmp , number:31
+2019-07-12 12:06:24,716 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:24,716 INFO [default] size of queue is 1
+2019-07-12 12:06:24,746 INFO [default] Recognizing picture name: Image_F2.bmp , number:32
+2019-07-12 12:06:24,797 INFO [default] Recognizing picture name: Image_F2.bmp , number:33
+2019-07-12 12:06:24,817 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:24,817 INFO [default] size of queue is 1
+2019-07-12 12:06:24,847 INFO [default] Recognizing picture name: Image_F2.bmp , number:34
+2019-07-12 12:06:24,900 INFO [default] recognize begin, pic queque is not empty
+2019-07-12 12:06:24,900 INFO [default] start recognizing
+2019-07-12 12:06:24,918 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:24,918 INFO [default] size of queue is 0
+2019-07-12 12:06:24,940 INFO [default] Recognizing picture name: Image_F3.bmp , number:0
+2019-07-12 12:06:24,990 INFO [default] Recognizing picture name: Image_F3.bmp , number:1
+2019-07-12 12:06:25,019 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:25,019 INFO [default] size of queue is 0
+2019-07-12 12:06:25,040 INFO [default] Recognizing picture name: Image_F3.bmp , number:2
+2019-07-12 12:06:25,091 INFO [default] Recognizing picture name: Image_F3.bmp , number:3
+2019-07-12 12:06:25,120 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:25,120 INFO [default] size of queue is 0
+2019-07-12 12:06:25,140 INFO [default] Recognizing picture name: Image_F3.bmp , number:4
+2019-07-12 12:06:25,189 INFO [default] Recognizing picture name: Image_F3.bmp , number:5
+2019-07-12 12:06:25,221 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:25,221 INFO [default] size of queue is 0
+2019-07-12 12:06:25,239 INFO [default] Recognizing picture name: Image_F3.bmp , number:6
+2019-07-12 12:06:25,289 INFO [default] Recognizing picture name: Image_F3.bmp , number:7
+2019-07-12 12:06:25,321 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:25,321 INFO [default] size of queue is 0
+2019-07-12 12:06:25,338 INFO [default] Recognizing picture name: Image_F3.bmp , number:8
+2019-07-12 12:06:25,386 INFO [default] Recognizing picture name: Image_F3.bmp , number:9
+2019-07-12 12:06:25,422 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:25,422 INFO [default] size of queue is 0
+2019-07-12 12:06:25,436 INFO [default] Recognizing picture name: Image_F3.bmp , number:10
+2019-07-12 12:06:25,487 INFO [default] Recognizing picture name: Image_F3.bmp , number:11
+2019-07-12 12:06:25,523 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:25,523 INFO [default] size of queue is 0
+2019-07-12 12:06:25,535 INFO [default] Recognizing picture name: Image_F3.bmp , number:12
+2019-07-12 12:06:25,584 INFO [default] Recognizing picture name: Image_F3.bmp , number:13
+2019-07-12 12:06:25,624 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:25,624 INFO [default] size of queue is 0
+2019-07-12 12:06:25,634 INFO [default] Recognizing picture name: Image_F3.bmp , number:14
+2019-07-12 12:06:25,684 INFO [default] Recognizing picture name: Image_F3.bmp , number:15
+2019-07-12 12:06:25,726 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:25,726 INFO [default] size of queue is 0
+2019-07-12 12:06:25,738 INFO [default] Recognizing picture name: Image_F3.bmp , number:16
+2019-07-12 12:06:25,789 INFO [default] Recognizing picture name: Image_F3.bmp , number:17
+2019-07-12 12:06:25,827 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:25,827 INFO [default] size of queue is 0
+2019-07-12 12:06:25,841 INFO [default] Recognizing picture name: Image_F3.bmp , number:18
+2019-07-12 12:06:25,894 INFO [default] Recognizing picture name: Image_F3.bmp , number:19
+2019-07-12 12:06:25,928 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:25,928 INFO [default] size of queue is 0
+2019-07-12 12:06:25,949 INFO [default] Recognizing picture name: Image_F3.bmp , number:20
+2019-07-12 12:06:26,000 INFO [default] Recognizing picture name: Image_F3.bmp , number:21
+2019-07-12 12:06:26,028 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:26,028 INFO [default] size of queue is 0
+2019-07-12 12:06:26,048 INFO [default] Recognizing picture name: Image_F3.bmp , number:22
+2019-07-12 12:06:26,098 INFO [default] Recognizing picture name: Image_F3.bmp , number:23
+2019-07-12 12:06:26,129 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:26,129 INFO [default] size of queue is 0
+2019-07-12 12:06:26,149 INFO [default] Recognizing picture name: Image_F3.bmp , number:24
+2019-07-12 12:06:26,197 INFO [default] Recognizing picture name: Image_F3.bmp , number:25
+2019-07-12 12:06:26,230 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:26,230 INFO [default] size of queue is 0
+2019-07-12 12:06:26,246 INFO [default] Recognizing picture name: Image_F3.bmp , number:26
+2019-07-12 12:06:26,297 INFO [default] Recognizing picture name: Image_F3.bmp , number:27
+2019-07-12 12:06:26,331 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:26,331 INFO [default] size of queue is 0
+2019-07-12 12:06:26,350 INFO [default] Recognizing picture name: Image_F3.bmp , number:28
+2019-07-12 12:06:26,399 INFO [default] Recognizing picture name: Image_F3.bmp , number:29
+2019-07-12 12:06:26,432 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:26,432 INFO [default] size of queue is 0
+2019-07-12 12:06:26,447 INFO [default] Recognizing picture name: Image_F3.bmp , number:30
+2019-07-12 12:06:26,495 INFO [default] Recognizing picture name: Image_F3.bmp , number:31
+2019-07-12 12:06:26,534 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:26,534 INFO [default] size of queue is 0
+2019-07-12 12:06:26,545 INFO [default] Recognizing picture name: Image_F3.bmp , number:32
+2019-07-12 12:06:26,594 INFO [default] Recognizing picture name: Image_F3.bmp , number:33
+2019-07-12 12:06:26,635 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:26,635 INFO [default] size of queue is 0
+2019-07-12 12:06:26,641 INFO [default] Recognizing picture name: Image_F3.bmp , number:34
+2019-07-12 12:06:26,693 INFO [default] FlagFinished=1,break recognizing loop
+2019-07-12 12:06:26,737 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:26,737 INFO [default] size of queue is 0
+2019-07-12 12:06:26,737 INFO [default] Recognize Finished=1,recognizing finished
+2019-07-12 12:06:31,162 INFO [default] click buttom start scan
+2019-07-12 12:06:31,162 INFO [default] initting scanner
+2019-07-12 12:06:31,163 INFO [default] Open Scanner
+2019-07-12 12:06:33,253 INFO [default] start Scanner
+2019-07-12 12:06:33,255 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:06:33,356 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:33,356 INFO [default] size of queue is 0
+2019-07-12 12:06:33,356 INFO [default] queue is empty, FlagFinished=0,wait a moment
+2019-07-12 12:06:33,456 INFO [default] Recognize Finished=0,wait a moment
+2019-07-12 12:06:33,457 INFO [default] size of queue is 0
+2019-07-12 12:06:33,457 INFO [default] queue is empty, FlagFinished=0,wait a moment
