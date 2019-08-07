@@ -12,12 +12,12 @@ int RecognizeFinished;
 //为了二维码识别单独开的线程
 //线程函数
 //std::string Final_text;
-DWORD WINAPI ThreadZxingQRcode(LPVOID lpParameter)
+DWORD WINAPI Demo::threadZxingQRcode(LPVOID lpParameter)
 {
 	int EndLoop = 0; //线程开始时，先标注这个线程的结束循环为0，即还未结束该线程的循环
 	while (EndLoop == 0) {  //如果循环结束标志为0，即该线程还未结束循环，则执行循环去识别二维码
 		//以下这个while是用来判定当识别图像队列为空的时候，该不该退出识别二维码循环
-		while (IsEmptyQueue()) //当要识别二维码的队列为空
+		while (isEmptyQueue()) //当要识别二维码的队列为空
 		{
 			if (FlagFinished == 0) {
 				ELOGI( "queue is empty, FlagFinished=0,wait a moment");
@@ -46,10 +46,11 @@ DWORD WINAPI ThreadZxingQRcode(LPVOID lpParameter)
 	return 0L;
 }
 
-Demo::Demo(QWidget *parent)
-	: QMainWindow(parent)
+Demo::Demo(queue<CString> *queueOfImages, QWidget *parent) : QMainWindow(parent)
 {
 	ui.setupUi(this);
+	//成员变量初始化
+	_queueOfImages = new queue<CString>;
 }
 
 void Demo::on_lineEdit_textEdited() {
@@ -71,7 +72,7 @@ void Demo::on_pushButton2_clicked() {
 	str=scan.m_FilePath;
 	scan.StartScan();
 	//创建一个线程
-	HANDLE thread = CreateThread(NULL, 0, ThreadZxingQRcode, NULL, 0, NULL);
+	HANDLE thread = CreateThread(NULL, 0, threadZxingQRcode, NULL, 0, NULL);
 	//CloseHandle(thread);
 	//ui.pushButton_3->setText("eee");
 	//ui.lineEdit->setText("eee");
@@ -80,7 +81,7 @@ void Demo::on_pushButton2_clicked() {
 	while (RecognizeFinished == 0) {
 		_sleep(0.1 * 1000);
 		ELOGI("Recognize Finished=0,wait a moment");
-		ELOGI("size of queue is "<<to_string(QueueOfImages.size()));
+		ELOGI("size of queue is "<<to_string(_queueOfImages.size()));
 	}
 	//ui.textEdit->setText("eee");
 	ELOGI("Recognize Finished=1,recognizing finished");
@@ -93,3 +94,24 @@ void Demo::on_pushButton3_clicked() {
 	//ZxingQRcode::recognize();
 }
 
+//std::mutex mtx; //定义一个互斥锁来保证线程对队列进行入队、出队操作加锁
+//queue<CString> QueueOfImages; //定义一个队列来放Image的name
+BOOL Demo::isEmptyQueue() {
+	unique_lock<mutex> lock(mtx);
+	return _queueOfImages->empty();
+}
+void Demo::pushImage(CString ImageName)
+{
+	mtx.lock();
+	_queueOfImages->push(ImageName);
+	mtx.unlock();
+}
+CString Demo::popImage()
+{
+	mtx.lock();
+	CString ImageName;
+	ImageName = _queueOfImages->front();
+	_queueOfImages->pop();
+	mtx.unlock();
+	return ImageName;
+}
